@@ -1,6 +1,6 @@
 # Hello i 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&title_color=0891b2&hide_border=false&bg_color=311432&langs_count=6" align="center" /></div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=donut&title_color=0891b2&hide_border=false&bg_color=311432&langs_count=6" align="center" /></div> 
 <!--
 **hobenaba/hobenaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
