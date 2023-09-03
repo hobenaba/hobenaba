@@ -1,9 +1,7 @@
 # Hello there! I go by Eva.
 
 I consider myself as a programmer, despite the journey ahead of me is rich with opportunities for growth and learning, and that's what makes me deeply passionate about the field ^^.
-<p>
 for my Contact informations :  <img src="https://i.pinimg.com/originals/44/a8/da/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" width="100" height="60"/>
-</p>
 Email : hobenaba1337@gmail.com
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=radical)
