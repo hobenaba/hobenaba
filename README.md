@@ -10,7 +10,7 @@ Email : hobenaba1337@gmail.com
 |:-:|:-:|
 
 <p align="center">
-	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=radical&style=flat&label=visitors" />
+	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=B15EFF&style=flat&label=visitors" />
 	<img alt="followers" src="https://img.shields.io/github/followers/hobenaba?color=blueviolet" />
 </p>
 </pre >
