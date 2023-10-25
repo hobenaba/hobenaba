@@ -5,7 +5,7 @@ I consider myself as a programmer, despite the journey ahead of me is rich with 
 for my Contact informations :                                            
 Email : hobenaba1337@gmail.com
 #
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=radical)
                       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&title_color=0891b2&hide_border=false&bg_color=311432&langs_count=6" align="center" /></div>
 ![](https://komarev.com/ghpvc/?username=hobenaba&color=blueviolet)
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwcW1nZ2R2OWR5aXZlZngxeG8weXQzMGl4cm9jeXFrbWZ2em80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bs3w1SsWV0hJZDOpWr/giphy.gif" width="200" height="120">
