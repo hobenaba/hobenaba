@@ -6,12 +6,12 @@ for my Contact informations :
 Email : hobenaba1337@gmail.com
 #
 
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/hobenaba?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&hide_border=true&theme=jolly)](https://github.com/hobenaba?tab=repositories) |
+| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/hobenaba?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&hide_border=true&theme=radical)](https://github.com/hobenaba?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=B15EFF&style=flat&label=visitors" />
-	<img alt="followers" src="https://img.shields.io/github/followers/hobenaba?color=blueviolet" />
+	<img alt="followers" src="https://img.shields.io/github/followers/hobenaba?color=B15EFF" />
 </p>
 </pre >
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwcW1nZ2R2OWR5aXZlZngxeG8weXQzMGl4cm9jeXFrbWZ2em80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bs3w1SsWV0hJZDOpWr/giphy.gif" width="200" height="120">
