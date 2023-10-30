@@ -12,7 +12,6 @@ Email : hobenaba1337@gmail.com
   <a href="https://github.com/hobenaba">
       <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 </div>
-<hr/ >
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" /> 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwcW1nZ2R2OWR5aXZlZngxeG8weXQzMGl4cm9jeXFrbWZ2em80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bs3w1SsWV0hJZDOpWr/giphy.gif" width="200" height="120">
