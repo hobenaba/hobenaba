@@ -1,5 +1,4 @@
 # Hello there! I go by Eva.
-f
 I consider myself as a programmer, despite the journey ahead of me is rich with opportunities for growth and learning, and that's what makes me deeply passionate about the field ^^.         <br /><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ3NWJpaGpwZ2lsZWk2cDE5amg5cXN3ZzNnZHNtNHdudGo4aXhrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p6ZVGS8zQbQIqH8G6l/giphy.gif" width="150" height="110"><br />                  
 
 for my Contact informations :                                            
