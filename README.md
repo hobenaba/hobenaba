@@ -6,14 +6,6 @@ for my Contact informations :
 Email : hobenaba1337@gmail.com
 #
 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" align="center" /></div>  
-
-
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&title_color=0891b2&hide_border=true&bg_color=1c1917&langs_count=6" align="center" /></div>
-
 [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=aura)](https://github.com/hobenaba?tab=repositories)
 [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&layout=compact&hide_border=true&theme=aura)](https://github.com/hobenaba?tab=repositories)
 
