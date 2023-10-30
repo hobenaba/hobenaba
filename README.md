@@ -7,10 +7,10 @@ Email : hobenaba1337@gmail.com
 #
 <p align="center">
 
- <a href="https://github.com/hobenaba">
-  <img title="streak-stats" alt="eva luna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hobenaba&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
+ <a href="https://github.com/Reda96R">
+  <img title="streak-stats" alt="Reda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Reda96R&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=FFFFFF&dates=868686&currStreakNum=DDDDDD&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
 </p>
-
+  <br/>
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
