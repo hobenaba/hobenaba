@@ -8,7 +8,7 @@ Email : hobenaba1337@gmail.com
 <br/>
 <div>
 <a href="https://github.com/hobenaba">
-     <img align="center" padding-right="20px" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=aura&hide_border=false"/></a> 
+     <img align="center" padding-right="100px" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=aura&hide_border=false"/></a> 
   <a href="https://github.com/hobenaba">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 <br/ >
