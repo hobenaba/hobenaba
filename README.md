@@ -5,16 +5,6 @@ I consider myself as a programmer, despite the journey ahead of me is rich with 
 for my Contact informations :                                            
 Email : hobenaba1337@gmail.com
 #
-
-<a href="https://github.com/hobenaba">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hobenaba&date_format=j%20M%5B%20Y%5D&background=190482&sideNums=7752FE&dates=8E8FFA&currStreakNum=C2D9FF&stroke=DD272700&sideLabels=E3E3E3&ring=D8582C&currStreakLabel=D8582C&fire=D8582C&border=DD272700"/> </a>
-</p>
-  <br/>
-  <a href="https://github.com/hobenaba">
-     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true"/></a>
-  <a href="https://github.com/hobenaba">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=0D1117&theme=codeSTACKr&layout=compact&hide_border=true"/></a>
-
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
