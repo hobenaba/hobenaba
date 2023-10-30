@@ -5,9 +5,9 @@ for my Contact informations :
 Email : hobenaba1337@gmail.com
 
 <a href="https://github.com/hobenaba">
-     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&bg_color=0D1117&theme=aura&hide_border=true"/></a>
+     <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=aura&hide_border=false"/></a>
   <a href="https://github.com/hobenaba">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=0D1117&theme=aura&layout=compact&hide_border=true"/></a>
+      <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 <br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwcW1nZ2R2OWR5aXZlZngxeG8weXQzMGl4cm9jeXFrbWZ2em80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bs3w1SsWV0hJZDOpWr/giphy.gif" width="200" height="120">
 </p>
