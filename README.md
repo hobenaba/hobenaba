@@ -9,7 +9,7 @@ Email : hobenaba1337@gmail.com
 <a href="https://github.com/hobenaba">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&bg_color=4F2956&theme=dracula&hide_border=false"/></a> 
   <a href="https://github.com/hobenaba">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=4F2956&theme=dracula&layout=compact&hide_border=false"/></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=4F2956&theme=tokyonight&layout=compact&hide_border=false"/></a>
 <br/ >
 <br/ >
 <p align="center">
