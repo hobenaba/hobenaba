@@ -12,7 +12,7 @@ Email : hobenaba1337@gmail.com
   <a href="https://github.com/hobenaba">
       <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 </div>
-#
+<hr/ >
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
