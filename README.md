@@ -6,13 +6,13 @@ for my Contact informations :
 Email : hobenaba1337@gmail.com
 
 <br/>
-<div padding="20px">
+<div >
 <a href="https://github.com/hobenaba">
      <img align="center" width="58%"src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&theme=aura&hide_border=false"/></a> 
   <a href="https://github.com/hobenaba">
       <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&theme=aura&layout=compact&hide_border=false"/></a>
 </div>
-
+#
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
