@@ -6,6 +6,12 @@ for my Contact informations :
 Email : hobenaba1337@gmail.com
 #
 <p align="center">
+
+ <a href="https://github.com/hobenaba">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hobenaba&date_format=j%20M%5B%20Y%5D&background=3F3B6C&sideNums=A3C7D6&dates=A3C7D6&currStreakNum=A3C7D6&stroke=DD272700&sideLabels=A3C7D6&ring=A3C7D6&currStreakLabel=A3C7D6&fire=A3C7D6&border=A3C7D6"/> </a>
+</p>
+
+<p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
 </pre >
