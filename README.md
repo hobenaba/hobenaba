@@ -7,10 +7,10 @@ Email : hobenaba1337@gmail.com
 
 <br/>
 <a href="https://github.com/hobenaba">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&bg_color=0D1117&theme=dracula&hide_border=false"/></a> 
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=hobenaba&show_icons=true&bg_color=4C3575&theme=dracula&hide_border=false"/></a> 
   <a href="https://github.com/hobenaba">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=0D1117&theme=dracula&layout=compact&hide_border=false"/></a>
-<br/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobenaba&show_icons=true&bg_color=4C3575&theme=dracula&layout=compact&hide_border=false"/></a>
+</pre >
 <p align="center">
 	<img alt="visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=CBC3E3&style=flat&label=visitors" />
 </p>
