@@ -6,7 +6,7 @@ Email : hobenaba1337@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobenaba&count_private=true&&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hobenaba&show_icons=true&locale=en&layout=compact&theme=aura" /> </br >
-<img align="center" alt="eva luna's visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=AA98A9&style=flat&label=visitors" />
+<img align="right" alt="eva luna's visitors" src="https://komarev.com/ghpvc/?username=hobenaba&color=AA98A9&style=flat&label=visitors" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwcW1nZ2R2OWR5aXZlZngxeG8weXQzMGl4cm9jeXFrbWZ2em80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bs3w1SsWV0hJZDOpWr/giphy.gif" width="200" height="120">
 </p>
